@@ -220,10 +220,6 @@ https://github.com/shahidul91325/Fit-Log-Web
   alt="GitHub Activity Graph"
 />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
