@@ -209,23 +209,18 @@ https://github.com/shahidul91325/Fit-Log-Web
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=shahidul91325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="Shahidul's GitHub Stats"
+  src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
 
 <br/><br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul91325&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-alt="Shahidul's Top Languages"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true"
-alt="Shahidul's GitHub Streak"
-/>
+<a href="https://github.com/shahidul91325">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahidul91325&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</a>
 
 </div>
 
