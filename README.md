@@ -204,6 +204,8 @@ https://github.com/shahidul91325/Fit-Log-Web
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahidul91325&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
@@ -215,6 +217,7 @@ https://github.com/shahidul91325/Fit-Log-Web
 <img src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 ---
 
 ## 📈 My Developer Journey
