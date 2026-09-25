@@ -204,21 +204,15 @@ https://github.com/shahidul91325/Fit-Log-Web
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shahidul91325&theme=tokyo-night&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidul91325&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 ---
