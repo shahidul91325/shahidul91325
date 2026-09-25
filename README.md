@@ -213,15 +213,6 @@ https://github.com/shahidul91325/Fit-Log-Web
   alt="GitHub Streak"
 />
 
-<br/><br/>
-
-<a href="https://github.com/shahidul91325">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahidul91325&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</a>
-
 </div>
 
 
