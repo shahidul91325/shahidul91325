@@ -2,27 +2,19 @@
 
 <img src="./banner.png" alt="MD Shahidul Islam - Full Stack Developer" width="100%"/>
 
-<br/>
-
 # 👋 Hi, I'm MD Shahidul Islam
 
 ### 💻 Full-Stack Web Developer | 🎓 Accounting Student | 🇧🇩 Bangladesh
 
 <p>
   <a href="https://md-shahidul-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-0A66C2?style=for-the-badge" alt="Visit My Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-0A66C2?style=for-the-badge" alt="Visit My Portfolio"/>
   </a>
   <a href="https://github.com/shahidul91325">
     <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
-  <a href="https://www.linkedin.com/in/shahidulislam91325/">
+  <a href="https://www.linkedin.com/in/shahidul91325/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://komarev.com/ghpvc/?username=shahidul91325&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=shahidul91325&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="GitHub Profile Views"/>
   </a>
 </p>
 
@@ -32,15 +24,15 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **MD Shahidul Islam**, a developer from Bangladesh focused on building modern and responsive web applications.
+I'm **MD Shahidul Islam**, a developer from Bangladesh focused on building modern, responsive web applications.
 
-🎓 I'm studying Accounting at Pubail Adarsha College under National University while developing my software development skills independently.
+🎓 I'm studying Accounting at Pubail Adarsha College under National University while independently developing my software development skills.
 
-💡 I enjoy turning ideas into functional web applications, integrating APIs, designing responsive interfaces, and learning through practical projects.
+💡 I enjoy building practical applications, integrating APIs, creating responsive interfaces, and learning through hands-on projects.
 
-🎯 My goal is to grow as a Full-Stack Web Developer and contribute to real-world software products.
+🎯 My goal is to become a professional Full-Stack Web Developer and contribute to real-world software products.
 
-🌐 **Portfolio:** [md-shahidul-portfolio.vercel.app](https://md-shahidul-portfolio.vercel.app/)
+🌐 **Portfolio:** [Visit My Portfolio](https://md-shahidul-portfolio.vercel.app/)
 
 > **Learn → Build → Improve → Grow 🚀**
 
@@ -49,10 +41,10 @@ Hi! I'm **MD Shahidul Islam**, a developer from Bangladesh focused on building m
 ## 🚀 What I Do
 
 - 🌐 Build responsive and user-friendly web interfaces
-- ⚛️ Develop applications with React.js
+- ⚛️ Develop applications using React.js
 - ▲ Build modern web applications with Next.js
 - 🎨 Create responsive UI with Tailwind CSS
-- 🔌 Integrate REST APIs and work with application data
+- 🔌 Integrate APIs and work with application data
 - 🧠 Practice JavaScript and TypeScript
 - 🔐 Learn authentication and authorization
 - 🗄️ Develop backend and database skills
@@ -92,7 +84,7 @@ Hi! I'm **MD Shahidul Islam**, a developer from Bangladesh focused on building m
 
 ### 🛒 1. Bazar Dor — Essential Product Price Tracker
 
-A web application focused on helping people explore essential product prices and market information in Bangladesh.
+A web application focused on helping users explore essential product prices and market information in Bangladesh.
 
 - **Tech:** Next.js, React, TypeScript, Tailwind CSS, API integration
 - 🌐 [Live Demo](https://bazar-dor-web.vercel.app/)
@@ -115,21 +107,21 @@ A web project showcasing developer-focused content and modern web development pr
 
 ### 🌐 Explore All My Work
 
-**[Visit My Portfolio →](https://md-shahidul-portfolio.vercel.app/)**
+**[View My Portfolio →](https://md-shahidul-portfolio.vercel.app/)**
 
 ---
 
 ## 📚 Currently Learning
 
 - Strengthening JavaScript fundamentals
-- Building better React and Next.js applications
+- Building React and Next.js applications
 - Improving TypeScript skills
 - Learning Node.js and Express.js
 - Building and consuming REST APIs
 - Understanding authentication and authorization
 - Practicing database operations
 - Improving problem-solving and clean code
-- Learning software testing and web security
+- Learning testing and web security fundamentals
 
 ---
 
@@ -178,17 +170,19 @@ I'm interested in suitable entry-level opportunities, internships, mentorship, a
 <div align="center">
 
 <a href="https://github.com/shahidul91325">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahidul91325&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/shahidul91325">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul91325&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidul91325&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/shahidul91325">
-  <img src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul91325&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<a href="https://streak-stats.demolab.com/?user=shahidul91325&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
@@ -203,9 +197,9 @@ I'm interested in suitable entry-level opportunities, internships, mentorship, a
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/shahidul91325">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/shahidulislam91325/">
+<a href="https://www.linkedin.com/in/shahidul91325/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/shahidul91325/">
@@ -214,9 +208,9 @@ I'm interested in suitable entry-level opportunities, internships, mentorship, a
 
 <br/><br/>
 
-**🌐 Portfolio:** https://md-shahidul-portfolio.vercel.app/
+📧 **Email:** [mdshahidulislam91325@gmail.com](mailto:mdshahidulislam91325@gmail.com)
 
-**📧 Email:** mdshahidulislam91325@gmail.com
+🌐 **Portfolio:** [md-shahidul-portfolio.vercel.app](https://md-shahidul-portfolio.vercel.app/)
 
 </div>
 
