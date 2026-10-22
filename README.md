@@ -1,23 +1,30 @@
-<div align="center">
+ <div align="center">
 
-<img src="./banner.png" alt="Md. Shahidul Islam - Full Stack Developer" width="100%"/>
+<img src="./banner.png" alt="MD Shahidul Islam - Full Stack Developer" width="100%"/>
 
 <br/>
 
-# 👋 Hi, I'm Md. Shahidul Islam
+# 👋 Hi, I'm MD Shahidul Islam
 
-### 💻 Aspiring Full-Stack Developer | 🎓 Accounting Student | 🇧🇩 Bangladesh
+### 💻 Full-Stack Web Developer | 🎓 Accounting Student | 🇧🇩 Bangladesh
 
 <p>
-  <a href="https://github.com/shahidul91325">
-    <img src="https://img.shields.io/badge/GitHub-shahidul91325-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://md-shahidul-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-0A66C2?style=for-the-badge" alt="Visit My Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/shahidul91325/">
-    <img src="https://img.shields.io/badge/LinkedIn-shahidul91325-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://github.com/shahidul91325">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github" alt="View GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahidulislam91325/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shahidul91325&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p>
+  <a href="https://github.com/shahidul91325">
+    <img src="https://komarev.com/ghpvc/?username=shahidul91325&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views"/>
+  </a>
+</p>
 
 </div>
 
@@ -25,13 +32,15 @@
 
 ## 👨‍💻 About Me
 
-I'm **Md. Shahidul Islam**, a student from Bangladesh who is currently building my skills toward becoming a professional **Full-Stack Developer**.
+I'm **MD Shahidul Islam**, a developer from Bangladesh focused on building modern, responsive web applications with React and Next.js.
 
-🎓 I'm currently studying **1st Year Accounting at National University, Pubail Adarsha College** while learning software development independently.
+🎓 I'm studying Accounting at Pubail Adarsha College under National University while independently developing my software engineering skills.
 
-💡 I enjoy turning ideas into responsive web applications, exploring new technologies, solving problems, and building projects that help me gain practical experience.
+💡 I enjoy building practical applications, integrating APIs, creating responsive user interfaces, and continuously improving my coding skills through hands-on projects.
 
-I'm still at the learning stage, but I'm serious about growing into a developer who can contribute to real-world products and professional development teams.
+🎯 **Career Goal:** To grow as a Full-Stack Web Developer and contribute to real-world software products.
+
+🌐 **Portfolio:** [md-shahidul-portfolio.vercel.app](https://md-shahidul-portfolio.vercel.app/)
 
 > **Learn → Build → Improve → Grow 🚀**
 
@@ -39,168 +48,106 @@ I'm still at the learning stage, but I'm serious about growing into a developer 
 
 ## 🚀 What I Do
 
-- 🌐 Build responsive and user-friendly web interfaces
-- ⚛️ Develop applications with React.js
-- ▲ Build modern web applications with Next.js
-- 🎨 Create responsive UI with Tailwind CSS
-- 🔌 Work with APIs and data integration
+- 🌐 Build responsive web interfaces
+- ⚛️ Develop applications using React.js
+- ▲ Create modern web applications with Next.js
+- 🎨 Design responsive UI using Tailwind CSS
+- 🔌 Integrate APIs and manage application data
 - 🧠 Practice JavaScript and TypeScript
-- 🔧 Use Git & GitHub for version control
-- 📚 Learn backend development and databases
-- 🛠️ Build projects to improve real-world development skills
+- 🔐 Learn authentication and authorization
+- 🔧 Use Git and GitHub for version control
+- 🗄️ Develop my backend and database skills
 
 ---
 
-## 🧰 My Current Tech Stack
+## 🧰 Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" alt="HTML CSS JavaScript React Next.js TypeScript Tailwind CSS"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
 </p>
+
+### 🛠️ Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" alt="Git GitHub VS Code Vercel Figma"/>
 </p>
 
-### 🛠️ Tools & Workflow
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" alt="Tools"/>
-</p>
+## 📂 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+### 🛒 Bazar Dor — Essential Product Price Tracker
+
+A web application focused on helping users explore essential product prices and compare market information in Bangladesh.
+
+- **Tech:** Next.js, React, TypeScript, Tailwind CSS, API integration
+- 🌐 [Live Demo](https://bazar-dor-web.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/shahidul91325/Bazar-Dor-Web)
+
+### 🏋️ FitLog — Workout Management Web App
+
+A responsive workout application for exploring workouts and managing workout plans.
+
+- **Tech:** Next.js, React, TypeScript, Tailwind CSS
+- 🌐 [Live Demo](https://fit-log-web-3piv.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/shahidul91325/Fit-Log-Web)
+
+### 💻 Dev Stack — Developer Resource Website
+
+A web project showcasing developer-focused content and modern web development practices.
+
+- 🌐 [Live Demo](https://my-firsht-dev-stack-project.netlify.app/)
+- 💻 [GitHub Repository](https://github.com/shahidul91325/dev-stack-web)
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-JavaScript
-   ↓
-React.js
-   ↓
-Next.js
-   ↓
-TypeScript
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB + MySQL
-   ↓
-Full-Stack Web Development 🚀
-```
-
-### 🔥 My Current Focus
-
 - Strengthening JavaScript fundamentals
-- Building React and Next.js projects
-- Writing cleaner TypeScript
-- Learning backend architecture
-- Building REST APIs
-- Understanding authentication & authorization
-- Working with databases
-- Improving Git/GitHub workflow
-- Building more real-world projects
-- Improving problem-solving skills
+- Building better React and Next.js applications
+- Improving TypeScript skills
+- Learning Node.js and Express.js
+- Building and consuming REST APIs
+- Understanding authentication and authorization
+- Practicing database operations
+- Improving problem-solving and clean-code practices
 
 ---
 
-## 🗺️ My Future Learning Roadmap
+## 🎯 Career Goals
 
-These are the areas I plan to explore as I progress toward professional full-stack development:
+I'm working toward becoming a professional Full-Stack Web Developer. I'm interested in opportunities that help me learn, collaborate, and contribute to real-world software projects.
 
-### Backend & Advanced Web Development
-- 🔐 Authentication & Authorization
-- 🧩 Advanced API Architecture
-- 🗄️ PostgreSQL
-- ⚡ Redis
-- 📦 Advanced Node.js
-- 🧪 Testing
+**Target Roles:**
+- Full-Stack Developer
+- Frontend Developer
+- Junior Backend Developer
+- Junior Web Developer
+- Junior Software Engineer
 
-### DevOps & Cloud
-- 🐳 Docker
-- ☁️ AWS / Cloud fundamentals
-- 🔄 CI/CD
-- 🐧 Linux & server fundamentals
-
-### Professional Engineering
-- 🏗️ System Design fundamentals
-- 🧠 Data Structures & Algorithms
-- 🧪 Unit & Integration Testing
-- 🔒 Web Security
-- 📈 Performance Optimization
-- 🧹 Clean Code & Design Patterns
+I'm open to suitable entry-level opportunities, internships, mentorship, and collaborative projects.
 
 ---
 
-## 🎯 My Dream & Career Goal
+## 🎓 Education
 
-My biggest goal is to become a **professional Full-Stack Developer** who can build reliable, scalable, and meaningful software.
-
-### 🌍 Where I Want to Go
-
-I dream of working with **reputed technology companies**, both in **Bangladesh and internationally**, where I can:
-
-- 💻 Work on real-world software products
-- 🤝 Collaborate with experienced developers
-- 🧠 Learn from strong engineering teams
-- 🚀 Contribute to meaningful projects
-- 🌍 Build an international career
-- 📈 Continuously improve my technical skills
-- 🏗️ Eventually build and lead products of my own
-
-> **Small Steps → Big Goals**
-
-I know becoming a professional developer takes time, consistency, and continuous learning. I'm focused on improving every day and building projects that demonstrate what I can do.
-
----
-
-## 📂 Featured Project
-
-### 🏋️ FitLog — Workout Management Web App
-
-A responsive workout management application built while practicing modern frontend development, API integration, state management, and responsive UI.
-
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `REST API`
-
-🔗 **Repository:**  
-https://github.com/shahidul91325/Fit-Log-Web
+- **Honours in Accounting** — Pubail Adarsha College, National University *(Ongoing)*
+- **HSC, Science** — Dhaka Northern City College
+- **SSC / Vocational, Electronics** — Sir Uddin Sarker Vidyaniketan & College, 2023
 
 ---
 
@@ -208,62 +155,35 @@ https://github.com/shahidul91325/Fit-Log-Web
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahidul91325&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-</div>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=shahidul91325&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
----
+<br/>
 
-## 📈 My Developer Journey
-
-<div align="center">
-
-| Stage | Focus |
-|---|---|
-| 🎓 Student | Building a strong foundation |
-| 🌱 Learner | Learning modern web technologies |
-| 🛠️ Builder | Creating real-world projects |
-| 💻 Developer | Becoming job-ready |
-| 🚀 Professional | Contributing to production software |
-| 🌍 Global Goal | Building an international career |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul91325&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## 💼 What I'm Looking For
-
-As I continue growing, I'm interested in opportunities where I can:
-
-- Learn from experienced engineers
-- Work on real-world projects
-- Contribute to frontend or full-stack applications
-- Improve my backend development skills
-- Work in collaborative development teams
-- Gain professional software engineering experience
-
-**I'm currently focused on learning and building. Opportunities, internships, mentorship, and meaningful collaborations are welcome. 🤝**
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
+<a href="https://md-shahidul-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
+</a>
 <a href="https://github.com/shahidul91325">
-  <img src="https://img.shields.io/badge/GitHub-shahidul91325-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile"/>
 </a>
-
-<a href="https://www.linkedin.com/in/shahidul91325/">
-  <img src="https://img.shields.io/badge/LinkedIn-shahidul91325-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shahidulislam91325/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
 <a href="https://www.instagram.com/shahidul91325/">
-  <img src="https://img.shields.io/badge/Instagram-shahidul91325-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -275,9 +195,5 @@ As I continue growing, I'm interested in opportunities where I can:
 ### 💻 Learn. Build. Improve. Grow. 🚀
 
 **Code Today • Build Tomorrow • Dream Bigger**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shahidul91325&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors"/>
 
 </div>
